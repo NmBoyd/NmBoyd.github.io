@@ -4,8 +4,12 @@ modal-id: 1
 date: 2014-07-15
 img: apollo_cooking.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: December 2022 - Present
+client: Apptronik
+category: Robotics
+description: Led the Manipulation and Navigation Autonomy efforts for end-to-end palletizing and depalletization. Led the efforts for creating a Behavior Library consisting of dozens of actions and transitions with execution management tools. Created hierarchical and whole-body kinodynamic locomotion and manipulation MPC’s. Collaborated with the hardware and systems team for the design of the QDH, Apollo Alpha, and Apollo Beta robots. Collaborated with industry research partners to prototype learning-based manipulation and locomotion policies. Developed 3D motion planning & perception algorithms for humanoid navigation in unstructured environments. Developed online manipulation algorithms based on affordance and learning-based grasp planners for precise visual servoing. Built a VR integrated optimization and learning based whole-body teleoperation control stack for training and tracking learned policies. Implemented a real-time safe distributed Autonomy and Motion Control architecture for robots to leverage multiple onboard computers. Oversaw the integration of robot safety standards ISO 15066, ISO 10218, IEC 61598, ISO 13849, ANSI 12100, and ANSI R15.08. 
+---
+[Jekyll docs][jekyll-docs]
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
 ---
